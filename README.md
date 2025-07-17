@@ -21,10 +21,13 @@ This makes for a super intuitive LED control system just by moving your hand in 
 ## 📸 Demo
 
 Image:
+
 ![Demo Image](./demo.png)
 
 Video:
-<video src="./demo.mp4" controls width="600"></video>
+
+[![Demo Video](demo.png)](https://github.com/saikat709/glimo-cv-and-arduino/raw/main/demo.mp4)
+
 
 
 ---
